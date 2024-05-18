@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "de7c",
+      "name": "The dining table is foldable",
+      "count": "14",
+      "size": {
+        "width": "90",
+        "height": "60"
+      },
+      "weight": "50",
+      "imageUrl": "https://content.rozetka.com.ua/goods/images/big/327335394.jpg",
+      "comments": []
+    },
+    {
+      "id": "f957",
+      "name": "Single bed",
+      "count": "5",
+      "size": {
+        "width": "90",
+        "height": "200"
+      },
+      "weight": "70",
+      "imageUrl": "https://content1.rozetka.com.ua/goods/images/big/315489167.jpg",
+      "comments": []
+    },
+    {
+      "id": "23ad",
+      "name": "Soft kitchen dining chair",
+      "count": "200",
+      "size": {
+        "width": "53",
+        "height": "84"
+      },
+      "weight": "15",
+      "imageUrl": "https://content2.rozetka.com.ua/goods/images/big/358322031.jpg",
+      "comments": []
+    }
+  ]
+}
