@@ -22,23 +22,19 @@ Runs json-server for.
 
 <div style="position: relative; display: inline-block;">
 <div style="position: absolute; font-weight: bold; bottom: 0; left: 0; color: white; background-color: rgba(0, 0, 0, 0.5); padding: 5px; width: 100%; text-align: center;">
-    Sign in page
+   Home page.
   </div>
   <img src="./photo/home.png" alt="home" />
   <div style="position: absolute; font-weight: bold; bottom: 0; left: 0; color: white; background-color: rgba(0, 0, 0, 0.5); padding: 5px; width: 100%; text-align: center;">
-    Home page.
+    Create new product.
   </div>
   <img src="./photo/create.png" alt="create" />
   <div style="position: absolute; font-weight: bold; bottom: 0; left: 0; color: white; background-color: rgba(0, 0, 0, 0.5); padding: 5px; width: 100%; text-align: center;">
-    Create new product.
+      Edit and comment product.
   </div>
   <img src="./photo/editAndComment.png" alt="editAndComment" />
    <div style="position: absolute; font-weight: bold; bottom: 0; left: 0; color: white; background-color: rgba(0, 0, 0, 0.5); padding: 5px; width: 100%; text-align: center;">
-    Edit and comment product.
+   Sort products.
   </div>
   <img src="./photo/sort.png" alt="sort" />
-  <div style="position: absolute; font-weight: bold; bottom: 0; left: 0; color: white; background-color: rgba(0, 0, 0, 0.5); padding: 5px; width: 100%; text-align: center;">
-    Sort products.
-  </div>
-  <img src="./photoReadme/chat.png" alt="chat" />
 </div>
