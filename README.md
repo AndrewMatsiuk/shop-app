@@ -18,7 +18,7 @@ You will also see any lint errors in the console.
 
 Runs json-server for.
 
-### Photo
+### `Photo`
 
 <div style="position: relative; display: inline-block;">
 <div style="position: absolute; font-weight: bold; bottom: 0; left: 0; color: white; background-color: rgba(0, 0, 0, 0.5); padding: 5px; width: 100%; text-align: center;">
